@@ -1,0 +1,14 @@
+.calculated-emi {
+  background-color: #f0f6fd;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 2rem;
+  margin-bottom: 25px;
+  height: auto;
+  overflow: hidden;
+  text-align: center;
+}
+.emi-amount {
+  font-weight: 700;
+  font-size: 28px;
+}
